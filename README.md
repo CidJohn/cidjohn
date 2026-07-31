@@ -6,4 +6,4 @@ Quick learner and problem solver. Looking for a job opportunity where I can star
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me:
     ---
-    [![icons8-facebook-50](https://github.com/user-attachments/assets/feed3862-9731-47d3-97e2-a14e774d43f1)](https://www.facebook.com/cidjohn.villanueva)
+    [![icons8-facebook-50](https://github.com/user-attachments/assets/feed3862-9731-47d3-97e2-a14e774d43f1)](https://www.facebook.com/profile.php?id=61578192712022)
